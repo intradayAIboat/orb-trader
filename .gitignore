@@ -1,0 +1,13 @@
+
+# Ignore sensitive files
+tokens.json
+trades_log.csv
+
+# Ignore Python cache and temp files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
+.env
